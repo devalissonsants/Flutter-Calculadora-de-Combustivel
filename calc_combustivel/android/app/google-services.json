@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295180674122",
+    "firebase_url": "https://calc-combustivel.firebaseio.com",
+    "project_id": "calc-combustivel",
+    "storage_bucket": "calc-combustivel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295180674122:android:e21137f5ede6fc1629f2b3",
+        "android_client_info": {
+          "package_name": "com.alisson.calccombustivel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295180674122-kdef8e64mrrckvljlfqn91h8iqak2hf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9fPTSn2DM5fY9Tk-W34Jnjl1TuBi07s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295180674122-kdef8e64mrrckvljlfqn91h8iqak2hf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
